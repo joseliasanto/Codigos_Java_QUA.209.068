@@ -27,8 +27,18 @@ public class Atividade1 {
 	String nome2 = "Santos";
 	System.out.println(nome1 + nome2);
 	
+	
+	
+	
 		
-
-	}
+        }
+	//Atividade 2
+	
+	int numero = 10;
+	double numero2 = 20;
+	char opcao = 's';
+	String mensagem = "Boa tarde!";
+	boolean valor = true
+	
 
 }
